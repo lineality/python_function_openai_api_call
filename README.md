@@ -2,9 +2,9 @@
 
 
 ```
-####################
-# Call API Function
-####################
+#############################
+# Call API (Python Function)
+#############################
 
 def call_openai_chat_api(this_input, select_model=3):
     """
